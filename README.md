@@ -20,16 +20,21 @@ So, in this repository, we make the assertion that we should bring Data Science 
 ## Current Status: Existing Tools
 Here, we gather existing resources that address, explore, and expand on the current state of using JavaScript as a language and framework for addressing problems related to Data Science. It is our hope that this step would expand the door to bring Data Science and Web together.
 
+**Note:** Because this is for benefiting the community, we only list resources that are open-source. Also, we try to be less opinionated so resources that tend to be limited to only a single framework (e.g. *n3-charts* for *Angular*) are excluded.
+
 <a name="visualizations"></a>
-### Visualizations
+### Visualizations and Presentation
 
 <a name="#visualizations_general"></a>
 #### General
 - [D3.js](https://d3js.org/)
 
 <a name="#visualizations_charts"></a>
-#### Charts
+#### Graphs and Charts
 - [Charts.js](http://www.chartjs.org/)
+- [Chartist.js](https://gionkunz.github.io/chartist-js/)
+- [Google Charts](https://developers.google.com/chart/)
+- [D3 Graphs and Charts](https://github.com/d3/d3/wiki/Gallery)
 
 <a name="#manipulation_analysis"></a>
 ### Manipulation and Analysis
