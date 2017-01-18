@@ -4,9 +4,9 @@
 - [Synopsis](#synopsis)
 - [Current Status: Existing Tools](#current_status)
   - [Visualizations and Presentations](#visualizations)
-    - [General](#visualizations_general)
-    - [Charts](#visualizations_charts)
-  - [Manipulation and Analysis](#manipulation_analysis)
+    - [General](#visuals_general)
+    - [Charts](#visuals_charts)
+  - [Manipulation and Analysis](#analysis)
   - [Solution by Data Types](#data_types)
     - [Datetime](#datetime)
     - [Numbers](#numbers)
@@ -38,11 +38,11 @@ Here, I gather existing resources that I find and that address, explore, and exp
 <a name="visualizations"></a>
 ### Visualizations and Presentations
 
-<a name="#visualizations_general"></a>
+<a name="#visuals_general"></a>
 #### General
 - [D3.js](https://d3js.org/)
 
-<a name="#visualizations_charts"></a>
+<a name="#visuals_charts"></a>
 #### Graphs and Charts
 - [Charts.js](http://www.chartjs.org/)
 - [Chartist.js](https://gionkunz.github.io/chartist-js/)
@@ -53,7 +53,7 @@ Here, I gather existing resources that I find and that address, explore, and exp
 - [uvCharts](https://imaginea.github.io/uvCharts/)
 - [plotly.js](https://plot.ly/javascript/)
 
-<a name="#manipulation_analysis"></a>
+<a name="#analysis"></a>
 ### Manipulation and Analysis (Math Tools)
 - [Datalib.js](https://vega.github.io/datalib/)
 - [SimpleStatistics](http://simplestatistics.org/)
