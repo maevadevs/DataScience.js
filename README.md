@@ -8,8 +8,8 @@
     - [Charts](#visualizations_charts)
   - [Manipulation and Analysis](#manipulation_analysis)
   - [Solution by Data Types](#data_types)
-    - Datetime (#datetime)
-    - Numbers (#numbers)
+    - [Datetime](#datetime)
+    - [Numbers](#numbers)
   
     
 <a name="synopsis"></a>
