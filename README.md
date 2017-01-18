@@ -8,7 +8,7 @@
     - [Charts](#visuals_charts)
   - [Manipulation and Analysis](#analysis)
   - [Solutions by Data Types](#data_types)
-    - [Datetime](#datetime)
+    - [DateTime](#datetime)
     - [Numbers](#numbers)
     - [Vectors/Matrix](#vector_matrix)
     - [Array](#array)
