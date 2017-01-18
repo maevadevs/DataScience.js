@@ -10,6 +10,11 @@
   - [Solution by Data Types](#data_types)
     - [Datetime](#datetime)
     - [Numbers](#numbers)
+    - [Vectors/Matrix](#vector_matrix)
+    - [Array](#array)
+  - [Machine Learning](#machine_learning)
+  - [Algorithms](#algorithms)
+  - [Reading Resources](#readings)
   
     
 <a name="synopsis"></a>
@@ -26,7 +31,7 @@ So, in this repository, I make the assertion that we should bring Data Science t
 ## Current Status: Existing Tools
 This is an ongoing effort.
 
-Here, I gather existing resources that I find and that address, explore, and expand on the current state of using JavaScript as a language and framework for addressing problems related to Data Science. It is our hope that this step would expand the door to bring Data Science and Web together.
+Here, I gather existing resources that I find and that address, explore, and expand on the current state of using JavaScript as a language and framework for addressing problems related to Data Science. (Only including maintained library.) It is our hope that this step would expand the door to bring Data Science and Web together.
 
 **Note:** Because this is for benefiting the community, we only list resources that are open-source or has a *community* version offer. Also, we try to be less opinionated so resources that tend to be limited to only a single framework (e.g. *n3-charts* for *Angular*) are excluded.
 
@@ -55,6 +60,7 @@ Here, I gather existing resources that I find and that address, explore, and exp
 - [jStat](https://github.com/jstat/jstat)
 - [Science.js](https://github.com/jasondavies/science.js/)
 - [Numericjs](http://www.numericjs.com/)
+- [linearReg](https://github.com/lastlegion/linearReg.js)
 
 <a name="data_types"></a>
 ### Solutions by Data Types
@@ -69,3 +75,27 @@ Here, I gather existing resources that I find and that address, explore, and exp
 - [BigNumbers.js](https://github.com/MikeMcl/bignumber.js)
 - [Big.js](https://github.com/MikeMcl/big.js)
 - [Decimal.js](https://github.com/MikeMcl/decimal.js)
+
+<a name="vector_matrix"></a>
+#### Vectors and Matrix
+- [Sylvester](https://github.com/jcoglan/sylvester)
+
+<a name="array"></a>
+#### Array
+- [D3-Array](https://github.com/d3/d3-array)
+
+<a name="machine_learning"></a>
+### Machine Learning
+- [EncogJS](https://github.com/encog/encog-javascript)
+- [ConvNetJS](https://cs.stanford.edu/people/karpathy/convnetjs/)
+- [SynapticJS](https://synaptic.juancazala.com/#/)
+- [SVMjs](https://github.com/karpathy/svmjs)
+- [ForestJS](https://github.com/karpathy/forestjs)
+
+<a name="algorithms"></a>
+### Algorithms
+- [density-clustering](https://github.com/uhho/density-clustering)
+
+<a name="readings"></a>
+### Reading Resources
+- [Data Science With JavaScript](https://www.gitbook.com/book/dtabio/data-science-with-javascript/details)
