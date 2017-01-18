@@ -7,7 +7,7 @@
     - [General](#visuals_general)
     - [Charts](#visuals_charts)
   - [Manipulation and Analysis](#analysis)
-  - [Solution by Data Types](#data_types)
+  - [Solutions by Data Types](#data_types)
     - [Datetime](#datetime)
     - [Numbers](#numbers)
     - [Vectors/Matrix](#vector_matrix)
