@@ -7,6 +7,7 @@
     - [General](#visualizations_general)
     - [Charts](#visualizations_charts)
   - [Manipulation and Analysis](#manipulation_analysis)
+  
     
 <a name="synopsis"></a>
 ## Synopsis
@@ -14,10 +15,14 @@ On one hand, *Data is the new oil*. It is ubiquitous and found everywhere. We cr
 
 One the other hand, the web is also ubiquitous and JavaScript is fastly becoming the "King" language of it. At first only considered with a light footprint language to scripting for the *FrontEnd*, JavaScript is now expanding into many fields, from *BackEnd* to *Mobile*. The rapid developement of its standard (ES5, ES2015, ES2016, ES2017) and integration of multiple programming paradigms (Object-Oriented, Functional...) are making it into a serious behemoth of a language that cannot be taken lightly anymore.
 
-So, in this repository, I make the assertion that we should bring Data Science to the Web and the Web to Data Science. For that purpose, I assert that JavaScript can be made into a language that could address this intention and explore that possibility though research and resource gathering. **Note:** Eventually, I might start to write some sort of library or framework that would somehow combine what I find in my research, which--I disclaim--might end up being opinionated.
+So, in this repository, I make the assertion that we should bring Data Science to the Web and the Web to Data Science. For that purpose, I assert that JavaScript can be made into a language that could address this intention and explore that possibility though research and resource gathering. 
+
+**Note:** Eventually, I might start to write some sort of library or framework that would somehow combine what I find in my research, which--I disclaim--might end up being opinionated.
 
 <a name="current_status"></a>
 ## Current Status: Existing Tools
+This is an ongoing effort.
+
 Here, I gather existing resources that I find and that address, explore, and expand on the current state of using JavaScript as a language and framework for addressing problems related to Data Science. It is our hope that this step would expand the door to bring Data Science and Web together.
 
 **Note:** Because this is for benefiting the community, we only list resources that are open-source or has a *community* version offer. Also, we try to be less opinionated so resources that tend to be limited to only a single framework (e.g. *n3-charts* for *Angular*) are excluded.
