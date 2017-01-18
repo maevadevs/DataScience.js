@@ -38,11 +38,11 @@ Here, I gather existing resources that I find and that address, explore, and exp
 <a name="visualizations"></a>
 ### Visualizations and Presentations
 
-<a name="#visuals_general"></a>
+<a name="visuals_general"></a>
 #### General
 - [D3.js](https://d3js.org/)
 
-<a name="#visuals_charts"></a>
+<a name="visuals_charts"></a>
 #### Graphs and Charts
 - [Charts.js](http://www.chartjs.org/)
 - [Chartist.js](https://gionkunz.github.io/chartist-js/)
