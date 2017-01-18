@@ -31,9 +31,9 @@ So, in this repository, I make the assertion that we should bring Data Science t
 ## Current Status: Existing Tools
 This is an ongoing effort.
 
-Here, I gather existing resources that I find and that address, explore, and expand on the current state of using JavaScript as a language and framework for addressing problems related to Data Science. (Only including maintained library.) It is our hope that this step would expand the door to bring Data Science and Web together.
+In this section, I gather existing resources that I find and that address, explore, and expand on the current state of using JavaScript as a language and framework for addressing problems related to Data Science. (Only including maintained libraries/framework.) I hope that this step would expand the door to bring Data Science and Web more closer together.
 
-**Note:** Because this is for benefiting the community, we only list resources that are open-source or has a *community* version offer. Also, we try to be less opinionated so resources that tend to be limited to only a single framework (e.g. *n3-charts* for *Angular*) are excluded.
+**Note:** Because this is for benefiting the community, I only list resources that are open-source or has a *community* version offer. Also, I try to be less opinionated so resources that are limited to only a single framework (e.g. *n3-charts* for *Angular*) are excluded.
 
 <a name="visualizations"></a>
 ### Visualizations and Presentations
