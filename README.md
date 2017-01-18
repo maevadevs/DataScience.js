@@ -3,9 +3,10 @@
 ## Table of Contents
 - [Synopsis](#synopsis)
 - [Current Status: Existing Tools](#current_status)
-  - [Visualizations](#visualizations_general)
-    - [General](#visual_gen)
-    - [Charts](#visualization_charts)
+  - [Visualizations](#visualizations)
+    - [General](#visualizations_general)
+    - [Charts](#visualizations_charts)
+  - [Manipulation and Analysis](#manipulation_analysis)
     
 <a name="synopsis"></a>
 ## Synopsis
@@ -26,9 +27,10 @@ Here, we gather existing resources that address, explore, and expand on the curr
 #### General
 - [D3.js](https://d3js.org/)
 
-<a name="#visualization_charts"></a>
+<a name="#visualizations_charts"></a>
 #### Charts
 - [Charts.js](http://www.chartjs.org/)
 
-### Data Manipulation and Analysis
+<a name="#manipulation_analysis"></a>
+### Manipulation and Analysis
 - [Datalib.js](https://vega.github.io/datalib/)
