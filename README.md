@@ -7,6 +7,9 @@
     - [General](#visualizations_general)
     - [Charts](#visualizations_charts)
   - [Manipulation and Analysis](#manipulation_analysis)
+  - [Solution by Data Types](#data_types)
+    - Datetime(#datetime)
+    - Numbers(#numbers)
   
     
 <a name="synopsis"></a>
@@ -46,5 +49,23 @@ Here, I gather existing resources that I find and that address, explore, and exp
 - [plotly.js](https://plot.ly/javascript/)
 
 <a name="#manipulation_analysis"></a>
-### Manipulation and Analysis
+### Manipulation and Analysis (Math Tools)
 - [Datalib.js](https://vega.github.io/datalib/)
+- [SimpleStatistics](http://simplestatistics.org/)
+- [jStat](https://github.com/jstat/jstat)
+- [Science.js](https://github.com/jasondavies/science.js/)
+- [Numericjs](http://www.numericjs.com/)
+
+<a name="data_types"></a>
+### Solutions by Data Types
+
+<a name="datetime"></a>
+#### DateTime
+- [Moment.js](https://momentjs.com/)
+
+<a name="numbers"></a>
+#### Numbers
+- [Numbers.js](https://github.com/numbers/numbers.js)
+- [BigNumbers.js](https://github.com/MikeMcl/bignumber.js)
+- [Big.js](https://github.com/MikeMcl/big.js)
+- [Decimal.js](https://github.com/MikeMcl/decimal.js)
