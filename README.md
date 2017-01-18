@@ -78,7 +78,7 @@ In this section, I gather existing resources that I find and that address, explo
 
 <a name="vector_matrix"></a>
 #### Vectors and Matrix
-- [Sylvester](https://github.com/jcoglan/sylvester)
+- [Sylvester](http://sylvester.jcoglan.com/)
 
 <a name="array"></a>
 #### Array
