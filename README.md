@@ -86,6 +86,7 @@ In this section, I gather existing resources that I find and that address, explo
 
 <a name="machine_learning"></a>
 ### Machine Learning
+- [DeepLearnJS](https://github.com/PAIR-code/deeplearnjs)
 - [EncogJS](https://github.com/encog/encog-javascript)
 - [ConvNetJS](https://cs.stanford.edu/people/karpathy/convnetjs/)
 - [SynapticJS](https://synaptic.juancazala.com/#/)
